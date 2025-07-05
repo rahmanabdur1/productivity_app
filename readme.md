@@ -1,3 +1,6 @@
+
+Django and frontend(Dash)
+
 # Django Backend for Employee Time Tracking & Productivity
 
 This is the backend API for the Employee Time Tracking & Productivity Web Application, built with Django and Django REST Framework, using PostgreSQL as the database.
